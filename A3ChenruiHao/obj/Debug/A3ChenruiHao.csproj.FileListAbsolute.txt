@@ -1,0 +1,30 @@
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.exe.config
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.exe
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.pdb
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csprojAssemblyReference.cache
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.Properties.Resources.resources
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csproj.GenerateResource.cache
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.exe
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.pdb
+C:\Programming Concepts II\Assignments\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.A3FileIO.resources
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.exe.config
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.exe
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.pdb
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csprojAssemblyReference.cache
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.A3FileIO.resources
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.Properties.Resources.resources
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csproj.GenerateResource.cache
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csproj.CoreCompileInputs.cache
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.exe
+F:\C# workplace\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.pdb
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.exe.config
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.exe
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\bin\Debug\A3ChenruiHao.pdb
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csproj.AssemblyReference.cache
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csproj.SuggestedBindingRedirects.cache
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.A3FileIO.resources
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.Properties.Resources.resources
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csproj.GenerateResource.cache
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.csproj.CoreCompileInputs.cache
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.exe
+F:\A_Used\conestoga\C# workplace\ass\A3ChenruiHao\A3ChenruiHao\A3ChenruiHao\obj\Debug\A3ChenruiHao.pdb
