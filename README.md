@@ -8,4 +8,13 @@ A windows form programmed by C#. Allows user record their order history @local m
 ## Usage
 * As currently this application only allowed be using @windows machine
 * Click [here to download Tracker.exe](https://github.com/SPIDEYH/PurchaseOrderTracker/raw/main/Tracker.exe) file to play with this fun Tracker
+##### Special Notes
+  The default setting for order.txt will creates a folder and a txt file @C drive.  Please change the path before add any order records in order to avoid inconvenience.
 
+```c
+// Life otto
+if (sad) {
+  sad = false;
+  beAwesome();
+}
+```
