@@ -1,6 +1,6 @@
 ﻿namespace A3ChenruiHao
 {
-    partial class A3FileIO
+    partial class TrackerIO
     {
         /// <summary>
         /// Required designer variable.

@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace A3ChenruiHao
 {
-    public partial class A3FileIO : Form
+    public partial class TrackerIO : Form
     {
         StreamWriter writer;
         StreamReader reader;
@@ -330,7 +330,7 @@ namespace A3ChenruiHao
             ShowOrders(inputPath);
         }
 
-        public A3FileIO()
+        public TrackerIO()
         {
             InitializeComponent();
         }

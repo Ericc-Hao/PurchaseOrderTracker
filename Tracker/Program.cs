@@ -16,7 +16,7 @@ namespace A3ChenruiHao
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new A3FileIO());
+            Application.Run(new TrackerIO());
         }
     }
 }

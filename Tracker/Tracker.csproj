@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3396FA29-6641-4EF9-B35C-BC8877ADCC4A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>A3ChenruiHao</RootNamespace>
-    <AssemblyName>A3ChenruiHao</AssemblyName>
+    <RootNamespace>Tracker</RootNamespace>
+    <AssemblyName>Tracker</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="A3FileIO.cs">
+    <Compile Include="TrackerIO.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="A3FileIO.Designer.cs">
-      <DependentUpon>A3FileIO.cs</DependentUpon>
+    <Compile Include="TrackerIO.Designer.cs">
+      <DependentUpon>TrackerIO.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="A3FileIO.resx">
-      <DependentUpon>A3FileIO.cs</DependentUpon>
+    <EmbeddedResource Include="TrackerIO.resx">
+      <DependentUpon>TrackerIO.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

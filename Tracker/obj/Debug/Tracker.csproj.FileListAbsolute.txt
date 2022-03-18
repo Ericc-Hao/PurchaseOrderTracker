@@ -1,0 +1,11 @@
+F:\github\PurchaseOrderTracker\A3ChenruiHao\bin\Debug\Tracker.exe.config
+F:\github\PurchaseOrderTracker\A3ChenruiHao\bin\Debug\Tracker.exe
+F:\github\PurchaseOrderTracker\A3ChenruiHao\bin\Debug\Tracker.pdb
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\Tracker.csproj.AssemblyReference.cache
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\Tracker.csproj.SuggestedBindingRedirects.cache
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\A3ChenruiHao.TrackerIO.resources
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\Tracker.Properties.Resources.resources
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\Tracker.csproj.GenerateResource.cache
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\Tracker.exe
+F:\github\PurchaseOrderTracker\A3ChenruiHao\obj\Debug\Tracker.pdb
