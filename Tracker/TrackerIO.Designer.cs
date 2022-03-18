@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TrackerIO));
             this.lblFileNameAndPath = new System.Windows.Forms.Label();
             this.grbFileOpenOpt = new System.Windows.Forms.GroupBox();
             this.rabOpen = new System.Windows.Forms.RadioButton();
@@ -456,7 +457,7 @@
             this.dgvDisplay.Size = new System.Drawing.Size(816, 443);
             this.dgvDisplay.TabIndex = 21;
             // 
-            // A3FileIO
+            // TrackerIO
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -473,8 +474,9 @@
             this.Controls.Add(this.txtPath);
             this.Controls.Add(this.grbFileOpenOpt);
             this.Controls.Add(this.lblFileNameAndPath);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.Name = "A3FileIO";
+            this.Name = "TrackerIO";
             this.Text = "Purchase Order Tracker";
             this.Load += new System.EventHandler(this.A3FileIO_Load);
             this.grbFileOpenOpt.ResumeLayout(false);

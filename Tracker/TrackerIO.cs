@@ -17,7 +17,7 @@ namespace A3ChenruiHao
         StreamReader reader;
         Boolean displayedOrNot = false;
         string inputPath = "";
-        string path = @"C:\history\", file = "ChenruiHaoOrders.txt", pathAndFile;
+        string path = @"C:\OrderHistory\", file = "Orders.txt", pathAndFile;
         
 
         //Method for display the table
@@ -96,7 +96,7 @@ namespace A3ChenruiHao
                         {
 
                         }
-                        rtbMessages.Text += "File Not Exits, Creates New File\n";
+                        rtbMessages.Text += "File Not Exits, Created New File\n";
                         return true;
                     }
                     else if (Directory.Exists(folders))
@@ -107,7 +107,7 @@ namespace A3ChenruiHao
                             {
 
                             }
-                            rtbMessages.Text += "File Not Exits, Creates New File\n";
+                            rtbMessages.Text += "File Not Exits, Created New File\n";
                             return true;
                         }
                         else
@@ -181,7 +181,7 @@ namespace A3ChenruiHao
             else if (rabCreate.Checked)
             {
                 ExitsFileChecker(inputPath);
-                rtbMessages.Text += "File Creates And Opened\n";
+                rtbMessages.Text += "File Created And Opened\n";
                 ShowOrders(inputPath);
             }
         }
